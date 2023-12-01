@@ -45,7 +45,7 @@ input[type="text"] {
 }
 
 button {
-  background-color: #DCE2AA;
+  background-color: #dce2aa;
   color: #000;
   border: none;
   padding: 8px 16px;
@@ -58,7 +58,7 @@ button {
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  background-color: #B4D2BA;
+  background-color: #b4d2ba;
   color: #000;
   padding: 15px;
   border-radius: 8px;
@@ -67,5 +67,5 @@ button {
 }
 
 .info-link:hover {
-  background-color: #A9B6AB;
+  background-color: #a9b6ab; 
 }
