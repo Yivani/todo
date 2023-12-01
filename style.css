@@ -52,3 +52,20 @@ button {
   border-radius: 4px;
   cursor: pointer;
 }
+
+.info-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  background-color: #4caf50;
+  color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 20px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.info-link:hover {
+  background-color: #45a049;
+}
