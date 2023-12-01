@@ -46,7 +46,7 @@ input[type="text"] {
 
 button {
   background-color: #DCE2AA;
-  color: #fff;
+  color: #000;
   border: none;
   padding: 8px 16px;
   border-radius: 4px;
@@ -59,7 +59,7 @@ button {
   justify-content: center;
   text-decoration: none;
   background-color: #B4D2BA;
-  color: #fff;
+  color: #000;
   padding: 15px;
   border-radius: 8px;
   margin-top: 20px;
